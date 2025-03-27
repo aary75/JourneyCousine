@@ -27,38 +27,17 @@ its A hotel booking management platform for the travellers. I led end to end des
 
 
 ## 🖥️ Tech Stack :
-```
-Frontend: React, TailwindCSS, Tanstack query, Vite.
 
-Backend: Node, Express, JWT, AWS. 
+**Frontend:** React, Redux, TailwindCSS, Tanstack query, Axios, React-hook-form, Vite
 
-Database: MongoDB Atlas.
+**Backend:** Node, Express, JWT
 
-Dependencies: React icons, React elastic carousel, Leaflet Maps, Country-state-city, React-hot-toast, React-spinners, Recharts.
-```
-### Testing performed by { Arnab Das , Sk sahil }
-1. Netlify Cloud Live Test version : https://journeycusine.netlify.app
-### Final Deployed Version by { Sk Mirajul Islam }
-2. Vercel Cloud Live final version: https://journey-cusine.vercel.app/
-### Backend API is Hosted by { Sk Mirajul Islam }
-3. AWS - Railway Cloud https://railway.app { its an paid Cloud, you can deploy here your nodejs | expressjs API}
+**Database:** MongoDB
 
-## Images
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding: 5px;">
-        <img src="https://github.com/skmirajulislam/JourneyCusine/blob/master/img1.png" alt="Image 1" style="width: 500px; height: 300px;">
-    </div>
-    <div style="flex: 1; padding: 5px;">
-        <img src="https://github.com/skmirajulislam/JourneyCusine/blob/master/img2.png" alt="Image 2" style="width: 500px; height: 300px;">
-    </div>
-    <div style="flex: 1; padding: 5px;">
-        <img src="https://github.com/skmirajulislam/JourneyCusine/blob/master/img3.png" alt="Image 3" style="width: 500px; height: 300px;">
-    </div>
-    <div style="flex: 1; padding: 5px;">
-        <img src="https://github.com/skmirajulislam/JourneyCusine/blob/master/img4.png" alt="Image 4" style="width: 500px; height: 300px;">
-    </div>
-</div>
+**Dependencies:** React icons, React elastic carousel, Leaflet Maps, Country-state-city, React-hot-toast, React-spinners, Recharts
 
+
+Live version : Not available right now. But deployed link is published very soon.
 
 
 ## Usage
@@ -68,43 +47,12 @@ Dependencies: React icons, React elastic carousel, Leaflet Maps, Country-state-c
  git clone https://github.com/skmirajulislam/JourneyCusine.git
 ```
 
-**Change Diractory**
-```
- cd JourneyCusine
-```
-**List all files**
-```
- ls
-```
-
-**Split the terminal into 2 part and perform this following command given below**
-
-## Importent
-Before performing this command, make sure if you want to connect your own database you can use your own environment and if you wanna use our backend server, then use this given URL https://backend-api-jc-production.up.railway.app/. 
-If you connected through our backend URL, then don't need to perform extra command for backend directory given below.
-
-
-for Frontend directory Run this command :
-```
- cd Frontend
-```
+Inside JourneyCusine
 ```js
- npm i
+ npm install
 ```
 ```js
  npm run dev
-```
-
-
-for Backend directory Run this command :
-```
- cd Backend
-```
-```js
- npm i
-```
-```js
- npx nodemon api.js
 ```
 
 
@@ -116,21 +64,14 @@ Thank you, JC contributors, for your hard work, dedication, and for being an int
 
 Keep coding brilliantly!
 
-1. **Sk Mirajul islam** - Project Leader & Full-Stack and backend Developer Lead 
-2. **Susshrita Jana** - Frontend Developer 
-3. **Soumye** -  Work-Flow & Frontend Developer
-4. **Aishiki Mondal** - UI Developer
-5. **Arnab Das** - Quality Assurance & Frontend Developer Lead
-6. **Sk Sahil** - Custom Support & Frontend Developer
+[Sk Mirajul islam]
+[Susshrita Jana]
+[Aishiki Mondal]
 
 ## License
 
-- [MIT](https://github.com/skmirajulislam/JourneyCusine/blob/master/MIT-LICENSE)
-- [Mozilla Public License 2.0](https://github.com/skmirajulislam/JourneyCusine/blob/master/MOZILA-FIREFOX-LICENSE)
-
-## Connect 
-For any query regarding this project, for industrial / private use and contribution connect through email given below. thanks for your time and consideration.
-skmirajulislam181@gmail.com
+- [MIT](https://github.com/skmirajulislam/Majorproject.github.io/blob/master/LICENSE-MIT)
+- [Mozilla Public License 2.0](https://github.com/skmirajulislam/Majorproject.github.io/blob/master/LICENSE)
 
 
 
